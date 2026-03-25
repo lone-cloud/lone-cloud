@@ -6,6 +6,6 @@ I build tools I actually use.
 
 **[polly](https://github.com/lone-cloud/polly)** &mdash; minimalist Signal fork. strips stories and bloat. arm64-only, Android 14+.
 
-**[prism](https://github.com/lone-cloud/prism)** + **[prism-android](https://github.com/lone-cloud/prism-android)** &mdash; self-hosted UnifiedPush notification gateway and Android client.
+**[prism](https://github.com/lone-cloud/prism)** + **[prism-android](https://github.com/lone-cloud/prism-android)** &mdash; self-hosted notification gateway with Signal, Telegram, and WebPush routing. Android app is a UnifiedPush distributor.
 
 **[snowflake-dashboard](https://github.com/lone-cloud/snowflake-dashboard)** &mdash; metrics dashboard for the Tor snowflake proxy.
