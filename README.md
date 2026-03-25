@@ -2,7 +2,7 @@ I build tools I actually use.
 
 ---
 
-**[gerbil](https://github.com/lone-cloud/gerbil)** &mdash; desktop app for running LLMs on your own hardware. no cloud, no telemetry, no bullshit.
+**[gerbil](https://github.com/lone-cloud/gerbil)** &mdash; desktop app for running LLMs on your own hardware.
 
 **[polly](https://github.com/lone-cloud/polly)** &mdash; minimalist Signal fork. strips stories and bloat. arm64-only, Android 14+.
 
